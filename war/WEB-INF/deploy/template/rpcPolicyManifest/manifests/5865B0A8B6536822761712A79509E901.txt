@@ -1,0 +1,2 @@
+serviceClass: com.five.web.template.client.GreetingService
+path: BFB8D28AF7F75A6060E8E3AA3FCD8542.gwt.rpc
